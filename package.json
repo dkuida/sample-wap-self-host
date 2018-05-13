@@ -1,0 +1,23 @@
+{
+  "name": "wap",
+  "version": "1.0.0",
+  "description": "WAP self host example",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    
+  },
+  "scripts": {
+    "start": "http-server -S",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/ddkdan/fiber-ui.git"
+  },
+  "author": "Dan Kuida",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/ddkdan/fiber-ui#readme"
+  
+}
